@@ -1,5 +1,10 @@
 ### Olá! Bem vindo ao meu GitHub 🧑‍🏫
 ##
+<div align="center">
+  <a href="https://github.com/charlespsc">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanSchneider&show_icons=true&theme=red"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanSchneider&layout=compact&langs_count=7&theme=dart"/>
+</div>
 
   ##
   
