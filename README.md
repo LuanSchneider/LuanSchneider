@@ -7,6 +7,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuanSchneider&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Luan Schneider github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanSchneider&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+<img src="https://camo.githubusercontent.com/a12d992eb3340637ce420267fa4db277f89ffb7d3be28496e8c8592dff73ae29/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d467573636174757262696e61646f267468656d653d6e656f6e26726f773d32266e6f2d62673d7472756526636f6c756d6e3d33266d617267696e2d773d3135266d617267696e2d683d3135" data-canonical-src="https://github-profile-trophy.vercel.app/?username=LuanSchneider;theme=neon&amp;row=2&amp;no-bg=true&amp;column=3&amp;margin-w=15&amp;margin-h=15" style="max-width: 100%;">
 
 <<div align="center"> 
 <div align="center"> 
